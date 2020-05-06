@@ -1,0 +1,7 @@
+# Swagger
+
+Swagger is a specification of format for documentation of REST API 's. The best thing about Swagger is it's both human readable 
+and  machine readable.
+
+Swagger expects user to enter certain parameters to create a documentation for an API end point.
+
